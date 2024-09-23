@@ -5,13 +5,10 @@
   grid-template-columns: 1fr 136px 1fr;
   justify-items: start;
   align-items: center;
-  padding: 92px 24px 96px;
+  padding: 92px 50px 96px;
   font-size: 18px;
 }
 
-.header__menu {
-  padding-left: 26.52px;
-}
 
 .header__links-list {
   display: flex;
@@ -44,7 +41,7 @@
 
 .header__address {
   justify-self: end;
-  padding-right: 62px;
+  padding-right: 36px;
 }
 
 .cover {
