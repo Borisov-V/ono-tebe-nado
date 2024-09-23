@@ -271,7 +271,7 @@
   width: 48px;
 }
 
-@-moz-document url-prefix(){
+@-moz-document url-prefix() {
   .bet-button {
     padding: 11px 32px;
     letter-spacing: .8px;
